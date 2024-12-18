@@ -50,8 +50,8 @@ This is a decentralized application for managing a lottery using Ethereum smart 
 
 ```bash
 # Clone the repository to your local machine:
-git clone <REPOSITORY_URL>
-cd <PROJECT_NAME>
+git clone Blockchain-Lottery
+cd Blockchain-Lottery
 
 # Install project dependencies:
 yarn install
