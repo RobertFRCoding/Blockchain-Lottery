@@ -1,7 +1,36 @@
- 
-node_modules
+# Node.js dependencies
 node_modules/
+
+# Build outputs
 dist/
 build/
+
+# Environment variables
 .env
+.env.local
+.env.*.local
+
+# Truffle artifacts
+build/
+abis/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
 .DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ethereum local networks
+*.pid
+*.log
+*.key
+ganache_db/
